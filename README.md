@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Real-Time Doodle Classifier
 
 We have created a Real-time doodle classifier using the concepts of Neural Networks with Deep Learning. Where we draw doodles in real time, and then our model classify them into one of the chosen classes among 20. Similar to Google's Quick draw.
@@ -65,4 +67,10 @@ Loss vs No. of Epochs graph
 # Resources referred
 
 - [Coursera Deep Learning](https://www.coursera.org/specializations/deep-learning)
-- [Pytorch documentation](https://pytorch.org/docs/stable/index.html)
+- # [Pytorch documentation](https://pytorch.org/docs/stable/index.html)
+
+# probable-barnacle
+
+Implementation of Real Time Doodle Classifier using Convulational Neural Network with help of Pytorch and Numpy
+
+> > > > > > > parent of 02a13a9 (Update README.md)
